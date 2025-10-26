@@ -1,0 +1,112 @@
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\img\favicon.ico
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\scss\main.css
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\main.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\css\fontawesome-all.min.css
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\css\main.min.css
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\webfonts\fa-regular-400.svg
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\breakpoints.min.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\jquery.dropotron.min.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\browser.min.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\scripts.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\scss\main.min.css
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\util.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\webfonts\fa-brands-400.svg
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\css\main.css
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\scripts.min.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\webfonts\fa-solid-900.svg
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\css\images\favicon.ico
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\images\favicon.ico
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\newFile.js
+C:\Users\klisi\Downloads\Tourism 2.0\Tourism 2.0\wwwroot\js\jquery.min.js
+wwwroot\css\fontawesome-all.min.css
+wwwroot\css\images\bg.jpg
+wwwroot\css\images\bg01.png
+wwwroot\css\images\bg02.png
+wwwroot\css\images\bg03.png
+wwwroot\css\images\bg04.png
+wwwroot\css\images\China.jpg
+wwwroot\css\images\favicon.ico
+wwwroot\css\images\header.jpg
+wwwroot\css\images\pic01.jpg
+wwwroot\css\images\pic02.jpg
+wwwroot\css\images\pic03.jpg
+wwwroot\css\images\pic04.jpg
+wwwroot\css\images\pic05.jpg
+wwwroot\css\images\pic06.jpg
+wwwroot\css\images\pic07.jpg
+wwwroot\css\images\pic08.jpg
+wwwroot\css\images\Sochi.jpg
+wwwroot\css\images\Turkey.jpg
+wwwroot\css\main.css
+wwwroot\css\main.min.css
+wwwroot\images\bg.jpg
+wwwroot\images\bg01.png
+wwwroot\images\bg02.png
+wwwroot\images\bg03.png
+wwwroot\images\bg04.png
+wwwroot\images\China.jpg
+wwwroot\images\favicon.ico
+wwwroot\images\header.jpg
+wwwroot\images\pic01.jpg
+wwwroot\images\pic02.jpg
+wwwroot\images\pic03.jpg
+wwwroot\images\pic04.jpg
+wwwroot\images\pic05.jpg
+wwwroot\images\pic06.jpg
+wwwroot\images\pic07.jpg
+wwwroot\images\pic08.jpg
+wwwroot\images\Sochi.jpg
+wwwroot\images\Turkey.jpg
+wwwroot\img\1.jpeg
+wwwroot\img\bg.jpg
+wwwroot\img\bg01.png
+wwwroot\img\bg02.png
+wwwroot\img\bg03.png
+wwwroot\img\bg04.png
+wwwroot\img\China.jpg
+wwwroot\img\favicon.ico
+wwwroot\img\header.jpg
+wwwroot\img\pic01.jpg
+wwwroot\img\pic02.jpg
+wwwroot\img\pic03.jpg
+wwwroot\img\pic04.jpg
+wwwroot\img\pic05.jpg
+wwwroot\img\pic06.jpg
+wwwroot\img\pic07.jpg
+wwwroot\img\pic08.jpg
+wwwroot\img\Sochi.jpg
+wwwroot\img\Turkey.jpg
+wwwroot\img\Снимок экрана (1).png
+wwwroot\js\breakpoints.min.js
+wwwroot\js\browser.min.js
+wwwroot\js\jquery.dropotron.min.js
+wwwroot\js\jquery.min.js
+wwwroot\js\main.js
+wwwroot\js\newFile.js
+wwwroot\js\scripts.js
+wwwroot\js\scripts.min.js
+wwwroot\js\util.js
+wwwroot\scss\libs\_breakpoints.scss
+wwwroot\scss\libs\_functions.scss
+wwwroot\scss\libs\_html-grid.scss
+wwwroot\scss\libs\_mixins.scss
+wwwroot\scss\libs\_vars.scss
+wwwroot\scss\libs\_vendor.scss
+wwwroot\scss\main.css
+wwwroot\scss\main.min.css
+wwwroot\scss\main.scss
+wwwroot\webfonts\fa-brands-400.eot
+wwwroot\webfonts\fa-brands-400.svg
+wwwroot\webfonts\fa-brands-400.ttf
+wwwroot\webfonts\fa-brands-400.woff
+wwwroot\webfonts\fa-brands-400.woff2
+wwwroot\webfonts\fa-regular-400.eot
+wwwroot\webfonts\fa-regular-400.svg
+wwwroot\webfonts\fa-regular-400.ttf
+wwwroot\webfonts\fa-regular-400.woff
+wwwroot\webfonts\fa-regular-400.woff2
+wwwroot\webfonts\fa-solid-900.eot
+wwwroot\webfonts\fa-solid-900.svg
+wwwroot\webfonts\fa-solid-900.ttf
+wwwroot\webfonts\fa-solid-900.woff
+wwwroot\webfonts\fa-solid-900.woff2
